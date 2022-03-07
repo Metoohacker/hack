@@ -146,7 +146,7 @@ def menu_option():
         os.system('xdg-open https://www.facebook.com/100054067120076')
         menu()
     elif select == '3':
-        os.system('xdg-open https://www.facebook.com/'100054067120076')
+        os.system('xdg-open https://www.facebook.com/100054067120076')
         menu()
     else:
         print ''
